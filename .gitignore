@@ -1,0 +1,12 @@
+# Dependências do Node
+node_modules
+
+# Arquivo de ambiente com informações sensíveis
+.env
+
+# Arquivos de log gerados pelo script
+*.txt
+*.log
+
+# Pasta de downloads
+gravacoes/

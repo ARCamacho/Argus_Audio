@@ -1,0 +1,14 @@
+{
+  "name": "argus-audio-downloader",
+  "version": "2.0.0",
+  "description": "Script para baixar gravações de áudio da API Argus de uma ou todas as campanhas.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
